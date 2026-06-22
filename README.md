@@ -22,8 +22,7 @@
 
 <div align="center">
 
-I build **enterprise SaaS platforms**, **AI-powered agent workflows**, and **cloud-native systems** that scale.<br/>
-Currently shipping at [Coherent](https://coherent.global) — and always building on the side.
+I build **enterprise SaaS platforms**, **AI-powered agent workflows**, and **cloud-native systems** that scale.
 
 </div>
 
@@ -36,7 +35,6 @@ const hiren = {
   title:      "Senior Full Stack Engineer",
   location:   "Greater Ahmedabad Area, India 🇮🇳",
   experience: "10+ years",
-  currentRole: "Senior FullStack Software Engineer @ Coherent",
   focus: [
     "Scalable SaaS & Enterprise Platforms",
     "AI-Powered Agent Workflows",
